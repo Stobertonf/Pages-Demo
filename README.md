@@ -16,7 +16,7 @@
 
 ## Curso
 
-💻 Projeto do Curso de .NET MAUI con Visual Studio 2022 creando PROYECTOS do professor Héctor Uriel Pérez na plataforma Udemy.
+💻 Projeto do Curso de .NET MAUI con Visual Studio 2022 creando Proyectos do professor Héctor Uriel Pérez na plataforma Udemy.
 
 ## Escopo
 
