@@ -1,4 +1,4 @@
-# PagesDemo
+# Pages-Demo
 
 👋 Olá, seja bem vindo.
 
