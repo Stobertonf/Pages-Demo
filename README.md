@@ -32,4 +32,6 @@
 
 ## Imagens
 
-Neste momento eu não possuo imagens para disponibilizar, no entanto, em breve irie disponibilizar as mesmas.
+<p float="left" align="center">
+   <img src=https://i.ibb.co/x5Q7tYR/Start-1.jpg width="40%" />
+</p> 
