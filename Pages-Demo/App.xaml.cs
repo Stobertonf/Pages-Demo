@@ -1,4 +1,6 @@
-﻿namespace Pages_Demo;
+﻿using MauiApp1;
+
+namespace Pages_Demo;
 
 public partial class App : Application
 {
@@ -6,6 +8,6 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new AppShell();
+		MainPage = new ContentPageDemo();
 	}
 }

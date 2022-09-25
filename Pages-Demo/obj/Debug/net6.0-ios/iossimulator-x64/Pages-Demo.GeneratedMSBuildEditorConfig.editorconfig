@@ -21,6 +21,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Pages_Demo.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[D:/Ajuda/Cursos/Flutter/Cursos/Udemy/Maui/Pages-Demo/Pages-Demo/ContentPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pages_Demo.ContentPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = ContentPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = ContentPageDemo.xaml
+
 [D:/Ajuda/Cursos/Flutter/Cursos/Udemy/Maui/Pages-Demo/Pages-Demo/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Pages_Demo.MainPage.xaml
