@@ -33,5 +33,6 @@
 ## Imagens
 
 <p float="left" align="center">
-   <img src=https://i.ibb.co/x5Q7tYR/Start-1.jpg width="40%" />
+ <img src=https://i.ibb.co/x5Q7tYR/Start-1.jpg width="40%" />
+ <img src=https://i.ibb.co/D83c91X/Content-Page.jpg.jpg width="40%" />
 </p> 
